@@ -1,0 +1,17 @@
+#titulo{
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.tabela td {
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+    background: #ccc;
+}
